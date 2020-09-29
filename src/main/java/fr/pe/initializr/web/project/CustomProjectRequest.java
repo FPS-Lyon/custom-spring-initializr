@@ -31,7 +31,7 @@ public class CustomProjectRequest extends WebProjectRequest {
 
     @Override
     public String toString() {
-        return "DsiPeProjectRequest{" +
+        return "CustomProjectRequest{" +
                 "idDga='" + idDga + '\'' +
                 ", direction='" + direction + '\'' +
                 '}';
