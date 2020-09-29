@@ -1,4 +1,4 @@
-= Service sample
+= Custom spring initializr
 
 :docs: https://docs.spring.io/initializr/docs/current-SNAPSHOT/reference/html
 
